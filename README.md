@@ -34,7 +34,7 @@ As a seasoned developer with over 6 years of experience, I’ve journeyed throug
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DelwarDHD&show_icons=true&theme=tokyonight" alt="DelwarDHD's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelwarDHD&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-  <img src="YOUR_IMAGE_URL" align="right" width="300" />
+  <img src="https://raw.githubusercontent.com/AtikulSoftware/AtikulFiles/main/coding%20anim.gif" align="right" width="300" />
 </p>
 
 ---
